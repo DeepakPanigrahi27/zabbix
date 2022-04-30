@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#Reach out to @MakMahlawat for any issues.
-
 # Step 1 = Determines the OS Distribution
 # Step 2 = Determines the OS Version ID
 # Step 3 = Downloads Zabbix-Agent Repository & Installs the Zabbix-Agent
