@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#For any issues on script, reach out to @MakMahlawat
 
 function version_redhat()
 {
