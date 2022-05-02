@@ -64,7 +64,7 @@ echo ==========================================================
 
 echo Zabbix-Agent is Successfully Uninstalled and  Removed from this machine
 
-echo Thanks for using Mak Mahlawat"'"s zabbix-agent removal script
+echo Thanks for using zabbix-agent removal script
 
 echo Host to be removed from Front End : $(hostname -f)
 
